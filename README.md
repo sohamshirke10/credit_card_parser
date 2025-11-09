@@ -14,4 +14,11 @@ Author: Soham Shirke
    - cd frontend
    - npm install
    - npm run dev
+  
+Sample:
+<img width="1919" height="1147" alt="image" src="https://github.com/user-attachments/assets/93d59c25-7f16-41c0-99eb-d737bcff78cd" />
+
+<img width="1919" height="1146" alt="image" src="https://github.com/user-attachments/assets/c04faf2d-c459-493e-8d17-18c20c4b9b1a" />
+
+
 
